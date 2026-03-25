@@ -17,7 +17,7 @@ A modern fashion e-commerce website with a clean, luxury UI built using front-en
 HTML • CSS • JavaScript  
 
 ## 🌐 Live Website
-👉 https://your-live-link-here
+https://deepikas-dev.github.io/mavn-fashion-e-commerce/
 
 ## 👩‍💻 Author
 Deepika (Front-End Developer)
