@@ -1,4 +1,4 @@
-# 🛍️ MAVN — Fashion E-Commerce
+# 🛍️ MAVN - Fashion E-Commerce
 
 ## ✨ About
 A modern fashion e-commerce website with a clean, luxury UI built using front-end technologies.
